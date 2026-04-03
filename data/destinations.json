@@ -1,0 +1,104 @@
+{
+    "Paris": {
+        "places": [
+            {
+                "name": "Musee d'Orsay",
+                "image": null
+            },
+            {
+                "name": "Cathedrale Notre-Dame de Paris",
+                "image": null
+            },
+            {
+                "name": "Sainte-Chapelle",
+                "image": null
+            },
+            {
+                "name": "Palais Garnier",
+                "image": null
+            },
+            {
+                "name": "Eiffel Tower",
+                "image": null
+            }
+        ],
+        "activities": [
+            "Exploring",
+            "Photography",
+            "Local Experience"
+        ],
+        "hotel_cost": {
+            "Low": 1200,
+            "Medium": 3000,
+            "Luxury": 7000
+        }
+    },
+    "Pune": {
+        "places": [
+            {
+                "name": "Phoenix Market City",
+                "image": null
+            },
+            {
+                "name": "Sinhagad Fort",
+                "image": "https://images.unsplash.com/photo-1589629041152-fb71b9c5dbcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxTaW5oYWdhZCUyMEZvcnQlMjBQdW5lJTIwbGFuZG1hcmt8ZW58MHwwfHx8MTc3NTEwNzgwMXww&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "ISKCON NVCC Temple",
+                "image": "https://images.unsplash.com/photo-1630253803806-67cfea9d6234?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxJU0tDT04lMjBOVkNDJTIwVGVtcGxlJTIwUHVuZSUyMGxhbmRtYXJrfGVufDB8MHx8fDE3NzUxMDc4MDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "National Defence Academy",
+                "image": "https://images.unsplash.com/photo-1760034588108-987757454c18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxOYXRpb25hbCUyMERlZmVuY2UlMjBBY2FkZW15JTIwUHVuZSUyMGxhbmRtYXJrfGVufDB8MHx8fDE3NzUxMDc4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "Pune-Okayama Friendship Garden",
+                "image": null
+            }
+        ],
+        "activities": [
+            "Exploring",
+            "Photography",
+            "Local Experience"
+        ],
+        "hotel_cost": {
+            "Low": 1200,
+            "Medium": 3000,
+            "Luxury": 7000
+        }
+    },
+    "Osaka": {
+        "places": [
+            {
+                "name": "Universal Studios Japan",
+                "image": "https://images.unsplash.com/photo-1770346024560-62a8bc370321?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxVbml2ZXJzYWwlMjBTdHVkaW9zJTIwSmFwYW4lMjBPc2FrYSUyMGxhbmRtYXJrfGVufDB8MHx8fDE3NzUxMDg4NjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "Osaka Castle Park",
+                "image": "https://images.unsplash.com/photo-1706649448171-918e3334237e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxPc2FrYSUyMENhc3RsZSUyMFBhcmslMjBPc2FrYSUyMGxhbmRtYXJrfGVufDB8MHx8fDE3NzUxMDg4NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "Osaka Aquarium Kaiyukan",
+                "image": "https://images.unsplash.com/photo-1765267708468-2fcc4e0b0266?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxPc2FrYSUyMEFxdWFyaXVtJTIwS2FpeXVrYW4lMjBPc2FrYSUyMGxhbmRtYXJrfGVufDB8MHx8fDE3NzUxMDg4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "Osaka Castle",
+                "image": "https://images.unsplash.com/photo-1706649448171-918e3334237e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMzMzJ8MHwxfHNlYXJjaHwxfHxPc2FrYSUyMENhc3RsZSUyME9zYWthJTIwbGFuZG1hcmt8ZW58MHwwfHx8MTc3NTEwODg2OHww&ixlib=rb-4.1.0&q=80&w=1080"
+            },
+            {
+                "name": "Minami (Namba)",
+                "image": null
+            }
+        ],
+        "activities": [
+            "Exploring",
+            "Photography",
+            "Local Experience"
+        ],
+        "hotel_cost": {
+            "Low": 1200,
+            "Medium": 3000,
+            "Luxury": 7000
+        }
+    }
+}
