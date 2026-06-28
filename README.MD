@@ -143,9 +143,6 @@ UNSPLASH_KEY=your_key
 
 ---
 
-## 📊 Screenshots
-
-(Add screenshots here after deployment)
 
 ---
 
